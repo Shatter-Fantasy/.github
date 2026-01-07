@@ -6,7 +6,7 @@ The goal is to speed up development and make the packages easier to work with.
 ## Welcome to the Shatter Fantasy community tool profile.
 
 ## Unity Version Requirements
-All tools are being aimed at Unity Unity LTS 6.3  and newer. This is because we don't want to waste resources on maintaining the legacy changes made to the following Unity stuff.
+All tools are being aimed at Unity LTS 6.3 and newer. This is because we don't want to waste resources on maintaining the legacy changes made to the following Unity stuff.
 Most changes are to the UI Toolkit, Text Core, SRP packages, and the improved C# Span API support for several of Unity's core API.
 
 The packages don't use any Text Mesh Pro, only UI Toolkit with Visual Elements.
